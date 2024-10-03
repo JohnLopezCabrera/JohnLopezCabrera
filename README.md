@@ -1,5 +1,5 @@
 <div align="center">
-<h2><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey,+I'm+Jhonatan!;Welcome...;to+my+Github!;" alt="Typing SVG"/></h2>
+<h2><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey,+I'm+John!;Welcome...;to+my+Github!;" alt="Typing SVG"/></h2>
 </div>
 
 <div align="center">
@@ -9,13 +9,12 @@
 
 <div align="center">
 <h2 align="center" class="section-heading">🌐 Connect with Me</h2>
-<p> To connect with me, you can find my professional profile and contact details on LinkedIn. Feel free to reach out for collaborations, opportunities, or just to exchange ideas about the latest in software development and technology. Let's innovate together! </p>
+<p> Connect! </p>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhonatan.rivera.pr@gmail.com)
-[![Resume](https://img.shields.io/badge/RESUME-important?style=for-the-badge)](./Jhonatan_Rivera.pdf)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonatan-rivera-cruz-242144222/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johnlopez_90@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-lopez-011968305/)
 
-![Views](https://komarev.com/ghpvc/?username=jhonaRiver&style=for-the-badge)
+![Views]()
 </div>
 
 <div align="center">
@@ -42,19 +41,6 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 </div>
 
-<div align="center">
-<h2 align="center" class="section-heading">☁️ Cloud Technologies</h2>
-<p>In the dynamic realm of cloud computing, I am learning to leverage leading cloud platforms and technologies to architect, deploy, and manage scalable, highly available, and fault-tolerant systems. Here's a glance at the cloud technologies I am currently learning:</p>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce"/>
-</div>
-
-<div align="center">
-<h2 align="center" class="section-heading">🔧 Frameworks</h2>
-<p>Frameworks are the backbone of my development process, providing the structure and tools necessary for building scalable, efficient applications. My expertise spans a broad spectrum of frameworks, each chosen for its ability to facilitate rapid development and deliver robust functionality</p>
-  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
@@ -75,16 +61,16 @@
 <p>Peek into my GitHub stats to see how I juggle code, coffee, and collaborations! Dive in to check out the milestones of my digital journey!</p>
  <table align="center" width="100%" height="100%" >
     <tr>
-       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jhonaRiver&theme=github_dark" alt="Jhonatan's GitHub Stats"/></td>
+       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JohnLopezCabrera&theme=github_dark" alt="John's GitHub Stats"/></td>
     </tr>
  </table>
 
  <table align="center" width="100%" height="100%" >
     <tr>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jhonaRiver&theme=github_dark" alt="Jhonatan's GitHub Stats"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jhonaRiver&theme=github_dark&utcOffset=10" alt="Jhonatan's GitHub Stats"/>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jhonaRiver&theme=github_dark" alt="Jhonatan's GitHub Stats"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jhonaRiver&theme=github_dark" alt="Jhonatan's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JohnLopezCabrera&theme=github_dark" alt="John's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JohnLopezCabrera&theme=github_dark&utcOffset=10" alt="John's GitHub Stats"/>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JohnLopezCabrera&theme=github_dark" alt="John's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JohnLopezCabrera&theme=github_dark" alt="John's GitHub Stats"/></td>
     </tr>
  </table>
 </div>
